@@ -10,4 +10,4 @@ This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/hakooma/) | [GitHub](https://github.com/mhakooma)
+[Miyanda Hakooma](https://www.linkedin.com/in/hakooma/) | [GitHub](https://github.com/mhakooma)
